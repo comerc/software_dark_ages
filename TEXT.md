@@ -120,6 +120,7 @@ Event Storming работает, когда вы планируете **как �
 Подробнее об этой технике можно прочитать на сайте [eventmodeling.org](https://eventmodeling.org/posts/what-is-event-modeling/).
 
 ![](./assets/7-event-modeling.jpeg)
+[Смотреть полную версию](https://eventmodeling.org/posts/what-is-event-modeling/blueprint_large.jpg)
 
 ### Ограниченный контекст и границы транзакций (агрегаты)
 
